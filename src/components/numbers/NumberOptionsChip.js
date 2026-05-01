@@ -51,8 +51,8 @@ const styles = StyleSheet.create({
     fontWeight: "900",
     color: "#12384A",
   },
-  hintChip: {
-  borderColor: '#00B894',
-  borderWidth: 3,
-}
+//   hintChip: {
+//   borderColor: '#00B894',
+//   borderWidth: 3,
+// }
 });
