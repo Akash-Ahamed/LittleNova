@@ -127,4 +127,4 @@ npm test
 ## 👨‍💻 Author
 
 Akash Ahamed
-Junior Software Engineer
+(Junior Software Engineer)
